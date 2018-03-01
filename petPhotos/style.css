@@ -1,0 +1,120 @@
+
+
+h1{
+	font-family: Arial;
+	text-align: center;
+	color :hotpink;
+	text-shadow: 2px 2px grey;
+
+}
+h2{
+	font-family: Arial;
+	text-align: center;
+	color : hotpink;
+	text-shadow: 2px 2px grey;
+
+}
+#canvas{
+    margin-top: 20px;
+    width: 100%;
+
+}
+#logo{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 10%;
+
+	border-radius: 500px;
+	border-color: pink;
+	border-width: 10px;
+	border-style: solid;
+}
+#prev{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    width: 10%;
+	color: #B6D7E6;
+	position: middle;
+	font-size: 20px;
+}
+#next{
+	display: inline-block;
+    margin-left: auto;
+    margin-bottom: 10%;
+    margin-right: auto;
+    width: 10%;
+	color: #B6D7E6;
+	font-size: 20px;
+}
+body{
+	background-color: aliceblue;
+}
+#mainImg{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+	position: center;
+	padding: auto;
+	border-radius: 20px;
+	border-color: pink;
+	border-width: 10px;
+	border-style: solid;
+
+}
+
+
+div{
+	display: inline;
+	margin-left: auto;
+    margin-right: 13%;
+}
+#like{
+    display: inline-block;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    margin-right: auto;
+    width: 4%;
+
+}
+#fav{
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: auto;
+    width: 4%;
+}
+
+#favs{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 60%;
+    height: 50px;
+    background-color: hotpink;
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+}
+a{
+	text-decoration: none;
+	font-family: Arial;
+    font-size: 20px;
+}
+.favo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    position: center;
+    padding: auto;
+    border-radius: 20px;
+}
+
